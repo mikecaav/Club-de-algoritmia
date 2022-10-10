@@ -181,4 +181,4 @@
 | :star: | Multi String Search                   | 🔴               | Tries               | [Program.java](Hard/MultiStringSearch/Program.java)                  |
 
 
-## [Go to Top](#problemario)
+## [Ir arriba](#problemario)

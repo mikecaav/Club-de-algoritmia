@@ -1,37 +1,25 @@
-# Solutions to AlgoExpert Problems in Six Programming Languages: Python, Java, Go, C++, C#, JavaScript/TypeScript
+# Problemario
 
-Discover solutions to AlgoExpert problems in six programming languages: Python, Java, Go, C++, C#, and JavaScript/TypeScript.
+⭐  Contenidos
 
-⭐ Table of Contents:
-
-- [Screenshots](#screenshots)
-- [List of AlgoExpert Problems and Solutions](#list-of-problems-and-solutions)
-  - [Difficulty Levels Guide](#difficulty-levels-guide)
-  - [Problems and Solutions](#problems-and-solutions)
+- [Lista de problemas y soluciones](#lista-de-problemas-y-soluciones)
+  - [Dificultad](#dificultad)
+  - [Problemas y soluciones](#problems-and-solutions)
 - [Contributing](#contributing)
 
-## Screenshots
 
-![Arrays, Binary Search Trees, Binary Trees, and Dynamic Programming](https://github.com/drmacsika/algoexpert-solutions/blob/master/templates/arrays_bst_binary_tree_dynamic_programming.png)
+## Lista de problemas y soluciones
 
-![Famous Algorithms, Graphs, Greedy Algorithms, and Heaps](https://github.com/drmacsika/algoexpert-solutions/blob/master/templates/graphs_greedy_algorithms_heaps.png)
+### Dificultad
 
-![LinkedList, Recursion, Searching, and Sorting](https://github.com/drmacsika/algoexpert-solutions/blob/master/templates/linked_lists_recursion_searching_sorting.png)
+- 🟢 -> Fácil
+- 🔵 -> Medio
+- 🔴 -> Difícil
+- ⚫ -> Muy difícil
 
-![Stacks, Strings and Tries](https://github.com/drmacsika/algoexpert-solutions/blob/master/templates/stacks_strings_tries.png)
+### Problemas y soluciones
 
-## List of Problems and Solutions
-
-### Difficulty Levels Guide
-
-- 🟢 -> Easy
-- 🔵 -> Medium
-- 🔴 -> Hard
-- ⚫ -> Very Hard
-
-### Problems and Solutions
-
-|        | Problem Statement                     | Difficulty Level | Category            | Solution Link                                                        | Website Link                                                                       |
+|        | Problema                     | Nivel de dificultad | Categoría            | Solución                                                        | Url                                                                       |
 | ------ | ------------------------------------- | ---------------- | ------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | :star: | Two Number Sum                        | 🟢               | Arrays              | [Program.java](Easy/TwoNumberSum/Program.java)                       | [Link](https://leetcode.com/problems/two-sum/)                                     |
 | :star: | Validate Subsequence                  | 🟢               | Arrays              | [Program.java](Easy/ValidateSubSequence/Program.java)                | [Link](https://leetcode.com/problems/is-subsequence/)                              |
@@ -192,15 +180,5 @@ Discover solutions to AlgoExpert problems in six programming languages: Python, 
 | :star: | Suffix Trie Construction              | 🔵               | Tries               | [Program.java](Medium/SuffixTrieConstruction/Program.java)           |
 | :star: | Multi String Search                   | 🔴               | Tries               | [Program.java](Hard/MultiStringSearch/Program.java)                  |
 
-## Contributing
 
-Pull requests and contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Ensure to follow the [guidelines](https://github.com/drmacsika/algoexpert-solutions/blob/master/CONTRIBUTING.md) and update tests as appropriate.
-
-## Contact Info
-
-If you have any question or want to reach me directly,
-[Contact Nsikak Imoh](https://nsikakimoh.com).
-
-## [Go to Top](#top)
+## [Go to Top](#problemario)

@@ -16,12 +16,12 @@
 
 ### Problems and Solutions
 
-|        | Problem                     | Difficulty Level | Category            | Solutions                                               | Url                                                                       | Video |
-|--------| ------------------------------------ |------------------|---------------------|---------------------------------------------------------| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| :star: | Two Number Sum                       | 🟢               | Arrays              | [Solutions](Easy/TwoNumberSum/)                       | [Link](https://leetcode.com/problems/two-sum/)                                     |
+|        | Problem                     | Difficulty Level | Category            | Solutions                                               | Url                                                                       | Video                                                                                        |
+|--------| ------------------------------------ |------------------|---------------------|---------------------------------------------------------| ---------------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------|
+|  | Two Number Sum                       | 🟢               | Arrays              | [Solutions](Easy/TwoNumberSum/)                       | [Link](https://leetcode.com/problems/two-sum/)                                     | [Video](https://www.youtube.com/watch?v=2uWRxgN1Sbo&ab_channel=OverTheShoulderCoding) |
 |        | Validate Subsequence                 | 🟢               | Arrays              | [Solutions](Easy/ValidateSubSequence/)                | [Link](https://leetcode.com/problems/is-subsequence/)                              |
 |        | Tournament Winner                    | 🟢               | Arrays              | [Solutions](Easy/TournamentWinner/)                   |
-|        | Non-Constructible Change             | 🟢               | Arrays              | [Solutions](Easy/NonConstructibleChange/)             | [Link](https://abheist.com/5-non-constructible-change/)                            |
+|        | Non-Constructible Change             | 🟢               | Arrays              | [Solutions](Easy/NonConstructibleChange/)             |                             |
 |        | Sorted Squared Array                 | 🟢               | Arrays              | [Solutions](Easy/SortedSquaredArray/)                 | [Link](https://leetcode.com/problems/squares-of-a-sorted-array/)                   |
 |        | Three Number Sum                     | 🔵               | Arrays              | [Solutions](Medium/ThreeNumberSum/)                   | [Link](https://leetcode.com/problems/3sum/)                                        |
 |        | Smallest Difference                  | 🔵               | Arrays              | [Solutions](Medium/SmallestDifference/)               | [Link](https://leetcode.com/problems/minimum-absolute-difference/)                 |
